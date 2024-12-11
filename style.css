@@ -1,0 +1,26 @@
+body {background: radial-gradient(circle at 10% 20%, rgb(107, 157, 171) 23.8%, rgb(92, 122, 158) 66%);
+    font-family: sans-serif;
+    padding: 0 20px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 900;
+    margin: 0;
+    font-size: 34px;
+    line-height: 48px;
+}
+
+h1 h2,
+h3 {
+    color: #231d3c;
+}
+
+form {font-size: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
